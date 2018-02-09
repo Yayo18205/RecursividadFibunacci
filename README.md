@@ -12,4 +12,8 @@ Caso recursivo:
 f(n) = f(n-1) + f(n-2)
 
 Al igual que en la forma iterativa, para la lectura por teclado del número de valores de la secuencia a representar utilizaremos la clase Scanner de la librería java.util.(método nextInt() para leer datos de tipo int).
-*REVISAR DOCUMENTO DE CODIGO EN JAVA*
+(*REVISAR DOCUMENTO DE CODIGO EN JAVA*)
+
+ EN PYTHON
+ Una vez entendido los conceptos básicos ya podemos entrar en materia de programación. He visto un centenar de scripts en Python sobre este tema, algunos utilizando 4 o 5 líneas, otros más de 10. Con estructuras de ciclo: for, while, o simplemente utilizando variables como: “ultimo =, penúltimo =” etc.
+ (*REVISAR DOCUMENTO DE CODIGO EN PYTHON*)
