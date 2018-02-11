@@ -16,4 +16,4 @@ Al igual que en la forma iterativa, para la lectura por teclado del número de v
 
  EN PYTHON
  Una vez entendido los conceptos básicos ya podemos entrar en materia de programación. He visto un centenar de scripts en Python sobre este tema, algunos utilizando 4 o 5 líneas, otros más de 10. Con estructuras de ciclo: for, while, o simplemente utilizando variables como: “ultimo =, penúltimo =” etc.
- (*REVISAR DOCUMENTO DE CODIGO EN PYTHON*)
+ (*REVISAR DOCUMENTO DE CODIGO EN PYTHON (images.png)*)
